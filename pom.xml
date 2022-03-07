@@ -39,5 +39,11 @@
 			<artifactId>commons-math3</artifactId>
 			<version>3.6</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/de.julielab/aliasi-lingpipe -->
+		<dependency>
+			<groupId>de.julielab</groupId>
+			<artifactId>aliasi-lingpipe</artifactId>
+			<version>4.1.0</version>
+		</dependency>
 	</dependencies>
 </project>
